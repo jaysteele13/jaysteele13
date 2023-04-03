@@ -1,4 +1,4 @@
-# Jays Collection of Nothing 🥴
+# :)
 
 
 <!---
