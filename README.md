@@ -44,7 +44,7 @@ const jay = {
   <img src="https://skillicons.dev/icons?i=react,swift,flutter" />
   <img src="https://skillicons.dev/icons?i=docker,github,linux" />
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://skillicons.dev/icons?i=arduino,bash,discordjs,githubactions" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash" />
 </div>
 
 
