@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jaysteele1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://lohit.is-a.dev/](https://jaysteele13.github.io/jay-portfolio/)">
+  <a href="https://jaysteele13.github.io/jay-portfolio/">
     <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://github.com/jaysteele13">
